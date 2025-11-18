@@ -1,8 +1,19 @@
 {
-  "projectName": "בית-קפה-אלפא-3541",
-  "businessName": "בית קפה אלפא",
-  "created": "2025-11-18T10:59:01.542Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-11-18T11:00:43.463Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 1,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Site Plan",
+      "type": "plan",
+      "status": "failed",
+      "description": "Creating site plan",
+      "error": "שגיאה בשירות Anthropic: No object generated: response did not match schema."
+    }
+  ],
+  "repoName": "webis-site-byt-kph-alpa-1763463541455"
 }

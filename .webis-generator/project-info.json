@@ -1,8 +1,38 @@
 {
   "projectName": "בית-קפה-אלפא-3541",
   "businessName": "בית קפה אלפא",
-  "created": "2025-11-18T10:59:01.542Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו בית קפה מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-11-18T10:59:26.291Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-byt-kph-alpa-1763463541455",
+  "formData": {
+    "businessName": "בית קפה אלפא",
+    "businessType": "retail",
+    "industry": "אופנה",
+    "businessSize": "large",
+    "description": "אנחנו בית קפה מוביל בתחום הבריאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#96CEB4",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "playful",
+    "animationPreference": "extensive",
+    "headline": "בית קפה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": true,
+    "metaDescription": "בית קפה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "בית קפה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "minimalist",
+      "neumorphic",
+      "glassmorphism",
+      "corporate"
+    ]
+  }
 }
